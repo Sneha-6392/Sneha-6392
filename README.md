@@ -8,7 +8,7 @@
 
 <!-- 💖 Short Intro -->
 <p align="center">
-  💻 Passionate Tech Enthusiast | 🎓 BTech @ GLA University | 🌸 Creative Web Developer  
+  🚀 Aspiring Software Developer | 🎓 GLA University | 💡 Creative Mind in Code & Design 
   <br/>
   ✨ Innovate 🚀 Elevate 🔧 Innovate
 </p>
@@ -50,10 +50,6 @@
 
 ---
 
-### 📈 WakaTime Coding Stats
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -74,8 +70,9 @@
 ### 📫 Let’s Connect!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sneha-maurya-809478255/)  
-📧 **snehamauryasm02@gmail.com**
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/peachiii_beachiii/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:snehamauryasm02@gmail.com)
 
 ---
 
-<p align="center">✨ “Code with love, build with joy.” ✨</p>
+<p align="center">🌟	 “Create with curiosity, code with clarity.” 🌟	</p>
