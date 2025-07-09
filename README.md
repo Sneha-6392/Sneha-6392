@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F78DB6&width=435&lines=Hello%2C+I+am+Sneha+Maurya!;Aspiring+Software+Developer%F0%9F%92%BB;Frontend+Devlper+%7C+Graphic+Designer" />
 </h3>
 
-<!-- 💖 Short Intro -->
+<!-- Short Intro -->
 <p align="center">
   🚀 Aspiring Software Developer | 🎓 GLA University | 💡 Creative Mind in Code & Design 
   <br/>
