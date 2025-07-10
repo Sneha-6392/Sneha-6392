@@ -3,7 +3,7 @@
 
 <!-- ⌨️ Typing SVG for Intro -->
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F78DB6&width=435&lines=Hello%2C+I+am+Sneha+Maurya!;Aspiring+Software+Developer%F0%9F%92%BB;Frontend+Devlper+%7C+Graphic+Designer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=F78DB6&width=335&lines=Hello%2C+I+am+Sneha+Maurya!;Aspiring+Software+Developer%F0%9F%92%BB;Frontend+Devlper+%7C+Graphic+Designer" />
 </h3>
 
 <!-- Short Intro -->
@@ -49,6 +49,12 @@
 </p>
 
 ---
+
+<div align="center">
+  <img src="https://github.com/Sneha-6392/Sneha-6392/blob/output/github-snake-dark.svg" alt="snake gif">
+</div>
+
+  
 
 ### 📊 GitHub Stats
 
