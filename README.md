@@ -50,11 +50,13 @@
 
 ---
 
+### 🐍 My GitHub activity got gamified — Meet the Snake!
+
 <div align="center">
   <img src="https://github.com/Sneha-6392/Sneha-6392/blob/output/github-snake-dark.svg" alt="snake gif">
 </div>
 
-  
+---
 
 ### 📊 GitHub Stats
 
